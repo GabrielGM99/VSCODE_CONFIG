@@ -1,0 +1,45 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "python.pythonPath": "C:\\Users\\Gabriel\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    
+    "material-icon-theme.folders.associations": {
+        "migrations":"tools"
+    },
+    
+     // Configura tamanho e família da fonte
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight": "gutter",
+
+    // Aumenta a fonte do terminal
+    "terminal.integrated.fontSize": 14,
+    "explorer.confirmDelete": false,
+
+    //Emmet no VSCODE com Typescript
+    "emmet.syntaxProfiles":{ "javascript": "jsx"},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Dracula",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Gabriel\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "search.exclude": {
+        "**/__pycache__/**": true
+    },
+    "files.exclude": {
+        "**/__pycache__/**": true
+    },
+}
